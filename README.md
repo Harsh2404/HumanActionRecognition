@@ -14,7 +14,7 @@ HumanActionRecognition was created as CIS6050: a course project to explore knowl
 - Visualization of results
 
 ## Dataset
-The UCF101 dataset is a collection of videos that consists of 101 action categories, such as walking, running, and jumping. It is a widely used benchmark for action recognition models. [Link to the dataset](https://www.crcv.ucf.edu/data/UCF50.php)
+The UCF101 dataset is a collection of videos that consists of 101 action categories, such as walking, running, and jumping. It is a widely used benchmark for action recognition models. [Link to the dataset](https://www.crcv.ucf.edu/data/UCF101.php)
 
 
 ### Prerequisites
