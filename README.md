@@ -25,8 +25,4 @@ The UCF101 dataset is a collection of videos that consists of 101 action categor
 - Pandas
 - Matplotlib
 
-## Installation
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/ActionRecog.git
-   cd ActionRecog
+
